@@ -1,11 +1,10 @@
 <resources>
-    <string name="app_name">space helper</string>
-
-
-    <string name="light_fragment_tittle">light level</string>
+    <string name="app_name">brightness controller</string>
 
     <string name="shading_threshold">"порог\nзатенения"</string>
     <string name="lighting_threshold">"порог\nосвещения"</string>
     <string name="save_current_light">"копировать\n текущее"</string>
     <string name="lux">lux</string>
+    <string name="blackout">затемнение</string>
+    <string name="lighting">освещение</string>
 </resources>
